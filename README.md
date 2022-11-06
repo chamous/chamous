@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chamous
+- 👋 Hi, I’m Haj Ayed Chames
 - 👀 I’m interested in embedded systems & IT developemnt
 - 🌱 I’m currently learning all innovative technology
 - 💞️ I’m looking to collaborate on innovative technology
