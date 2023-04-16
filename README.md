@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems & IT developemnt
 - 🌱 I’m currently learning all innovative technology
 - 💞️ I’m looking to collaborate on innovative technology
-- 📫 How to reach me : ayedchames@gmail.com
+- 📫 How to reach me : hadjayed.chames@gmail.com
 
 <!---
 chamous/chamous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
