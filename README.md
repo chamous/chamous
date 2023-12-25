@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python , C/C++ , Flask , Electronics ...**
 
-- 📫 How to reach me **hadjayedchames@gmail.com**
+- 📫 How to reach me **hadjayed.chames@gmail.com**
 
 - 📄 Know about my experiences [https://hadjayedchames.wixsite.com/chames](https://hadjayedchames.wixsite.com/chames)
 
